@@ -1,0 +1,108 @@
+Mon, 16 Oct 2017 14:43:16 utils.py[line:180] WARNING Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.7
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 150, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 97, in get_browsers
+    html = get(settings.BROWSERS_STATS_PAGE, verify_ssl=verify_ssl)
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 84, in get
+    raise FakeUserAgentError('Maximum amount of retries reached')
+FakeUserAgentError: Maximum amount of retries reached
+Mon, 16 Oct 2017 14:43:36 get_comitem_detail.py[line:238] INFO 月销量爬取错误conut
+Mon, 16 Oct 2017 14:43:43 get_comitem_detail.py[line:238] INFO 月销量爬取错误list index out of range
+Mon, 16 Oct 2017 14:43:47 get_comitem_detail.py[line:238] INFO 月销量爬取错误list index out of range
+Mon, 16 Oct 2017 14:43:50 get_comitem_detail.py[line:238] INFO 月销量爬取错误list index out of range
+Mon, 16 Oct 2017 14:43:52 get_comitem_detail.py[line:238] INFO 月销量爬取错误list index out of range
+Mon, 16 Oct 2017 14:44:38 get_comitem_detail.py[line:238] INFO 月销量爬取错误list index out of range
+Mon, 16 Oct 2017 14:44:40 get_comitem_detail.py[line:238] INFO 月销量爬取错误list index out of range
+Tue, 17 Oct 2017 14:24:14 utils.py[line:180] WARNING Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.7
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 150, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 97, in get_browsers
+    html = get(settings.BROWSERS_STATS_PAGE, verify_ssl=verify_ssl)
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 84, in get
+    raise FakeUserAgentError('Maximum amount of retries reached')
+FakeUserAgentError: Maximum amount of retries reached
+Tue, 17 Oct 2017 14:24:46 get_comitem_detail.py[line:260] INFO 月销量爬取错误conut
+Tue, 17 Oct 2017 14:25:38 get_comitem_detail.py[line:260] INFO 月销量爬取错误conut
+Tue, 17 Oct 2017 14:25:42 get_comitem_detail.py[line:260] INFO 月销量爬取错误list index out of range
+Tue, 17 Oct 2017 14:28:14 get_comitem_detail.py[line:260] INFO 月销量爬取错误conut
+Tue, 17 Oct 2017 14:37:48 get_comitem_detail.py[line:262] INFO 月销量爬取错误conut
+Wed, 18 Oct 2017 13:50:12 get_comitem_detail.py[line:262] INFO 月销量爬取错误list index out of range
+Thu, 19 Oct 2017 11:39:41 get_comitem_detail.py[line:262] INFO 月销量爬取错误list index out of range
+Thu, 19 Oct 2017 11:41:44 get_comitem_detail.py[line:262] INFO 月销量爬取错误conut
+Sat, 21 Oct 2017 14:19:56 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Sat, 21 Oct 2017 14:20:01 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Sat, 21 Oct 2017 14:20:03 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39968319817的宝贝
+Sat, 21 Oct 2017 14:20:05 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39012449038的宝贝
+Sat, 21 Oct 2017 14:20:08 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：550270439706的宝贝
+Sat, 21 Oct 2017 14:20:10 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39017712658的宝贝
+Sat, 21 Oct 2017 14:20:15 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：554476292489的宝贝
+Sat, 21 Oct 2017 14:20:45 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：537532132292的宝贝
+Sat, 21 Oct 2017 14:20:50 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：557658180350的宝贝
+Sat, 21 Oct 2017 14:20:52 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：520397113597的宝贝
+Sat, 21 Oct 2017 14:20:54 get_comitem_detail.py[line:289] INFO 共计爬取时间：58
+Sun, 22 Oct 2017 09:33:09 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Sun, 22 Oct 2017 09:33:11 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Sun, 22 Oct 2017 09:33:20 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39968319817的宝贝
+Sun, 22 Oct 2017 09:33:22 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39012449038的宝贝
+Sun, 22 Oct 2017 09:33:25 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：550270439706的宝贝
+Sun, 22 Oct 2017 09:33:31 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39017712658的宝贝
+Sun, 22 Oct 2017 09:33:33 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：554476292489的宝贝
+Sun, 22 Oct 2017 09:33:45 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：537532132292的宝贝
+Sun, 22 Oct 2017 09:33:54 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：557658180350的宝贝
+Sun, 22 Oct 2017 09:33:56 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：520397113597的宝贝
+Sun, 22 Oct 2017 09:34:11 get_comitem_detail.py[line:289] INFO 共计爬取时间：63
+Mon, 23 Oct 2017 11:54:43 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Mon, 23 Oct 2017 11:54:45 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Mon, 23 Oct 2017 11:54:49 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39968319817的宝贝
+Mon, 23 Oct 2017 11:54:51 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39012449038的宝贝
+Mon, 23 Oct 2017 11:55:03 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：550270439706的宝贝
+Mon, 23 Oct 2017 11:55:06 get_comitem_detail.py[line:128] INFO 第0次发送请求获取宝贝详情页(天猫)
+Mon, 23 Oct 2017 11:55:07 get_comitem_detail.py[line:128] INFO 第1次发送请求获取宝贝详情页(天猫)
+Mon, 23 Oct 2017 11:55:08 get_comitem_detail.py[line:128] INFO 第2次发送请求获取宝贝详情页(天猫)
+Mon, 23 Oct 2017 11:58:16 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Mon, 23 Oct 2017 11:58:18 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Mon, 23 Oct 2017 12:00:27 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Mon, 23 Oct 2017 12:00:33 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Mon, 23 Oct 2017 12:00:35 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39968319817的宝贝
+Mon, 23 Oct 2017 12:00:37 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39012449038的宝贝
+Mon, 23 Oct 2017 12:00:41 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：550270439706的宝贝
+Mon, 23 Oct 2017 12:00:50 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39017712658的宝贝
+Mon, 23 Oct 2017 12:01:14 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：554476292489的宝贝
+Mon, 23 Oct 2017 12:01:41 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：537532132292的宝贝
+Mon, 23 Oct 2017 12:01:43 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：557658180350的宝贝
+Mon, 23 Oct 2017 12:01:58 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：520397113597的宝贝
+Mon, 23 Oct 2017 12:02:01 get_comitem_detail.py[line:289] INFO 共计爬取时间：94
+Tue, 24 Oct 2017 14:44:57 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Tue, 24 Oct 2017 14:45:00 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Tue, 24 Oct 2017 14:45:10 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39968319817的宝贝
+Tue, 24 Oct 2017 14:45:27 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39012449038的宝贝
+Tue, 24 Oct 2017 14:45:29 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：550270439706的宝贝
+Tue, 24 Oct 2017 14:45:36 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39017712658的宝贝
+Tue, 24 Oct 2017 14:45:38 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：554476292489的宝贝
+Tue, 24 Oct 2017 14:45:57 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：537532132292的宝贝
+Tue, 24 Oct 2017 14:46:02 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：557658180350的宝贝
+Tue, 24 Oct 2017 14:46:05 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：520397113597的宝贝
+Tue, 24 Oct 2017 14:46:07 get_comitem_detail.py[line:287] INFO 共计爬取时间：69
+Thu, 26 Oct 2017 14:10:08 utils.py[line:180] WARNING Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.7
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 150, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 97, in get_browsers
+    html = get(settings.BROWSERS_STATS_PAGE, verify_ssl=verify_ssl)
+  File "C:\Python27\lib\site-packages\fake_useragent\utils.py", line 84, in get
+    raise FakeUserAgentError('Maximum amount of retries reached')
+FakeUserAgentError: Maximum amount of retries reached
+Thu, 26 Oct 2017 14:10:11 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Thu, 26 Oct 2017 14:10:12 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：45547462620的宝贝
+Thu, 26 Oct 2017 14:10:16 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：40036686739的宝贝
+Thu, 26 Oct 2017 14:10:19 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39968319817的宝贝
+Thu, 26 Oct 2017 14:10:23 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39012449038的宝贝
+Thu, 26 Oct 2017 14:11:01 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：550270439706的宝贝
+Thu, 26 Oct 2017 14:11:04 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：39017712658的宝贝
+Thu, 26 Oct 2017 14:11:06 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：554476292489的宝贝
+Thu, 26 Oct 2017 14:11:29 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：537532132292的宝贝
+Thu, 26 Oct 2017 14:11:32 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：557658180350的宝贝
+Thu, 26 Oct 2017 14:11:35 get_comitem_detail.py[line:78] INFO 开始爬取宝贝id为：520397113597的宝贝
+Thu, 26 Oct 2017 14:11:37 get_comitem_detail.py[line:286] INFO 共计爬取时间：85

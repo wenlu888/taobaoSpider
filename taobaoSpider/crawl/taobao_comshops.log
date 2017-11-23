@@ -1,0 +1,73 @@
+Wed, 25 Oct 2017 15:03:38 crawl_taobao_shop.py[line:173] INFO 开始爬取嘉爱丝
+Wed, 25 Oct 2017 15:07:11 crawl_taobao_shop.py[line:180] INFO 爬取店铺嘉爱丝结束，耗时：213
+Wed, 25 Oct 2017 15:07:11 crawl_taobao_shop.py[line:173] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:10:12 crawl_taobao_shop.py[line:173] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:18:53 crawl_taobao_shop.py[line:174] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:26:18 crawl_taobao_shop.py[line:174] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:31:35 crawl_taobao_shop.py[line:174] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:33:25 crawl_taobao_shop.py[line:174] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:38:26 crawl_taobao_shop.py[line:175] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:40:09 crawl_taobao_shop.py[line:175] INFO 开始爬取佰丝韵真丝 
+Wed, 25 Oct 2017 15:42:44 crawl_taobao_shop.py[line:182] INFO 爬取店铺佰丝韵真丝 结束，耗时：155
+Wed, 25 Oct 2017 15:42:44 crawl_taobao_shop.py[line:175] INFO 开始爬取丝悦坊
+Wed, 25 Oct 2017 15:44:50 crawl_taobao_shop.py[line:182] INFO 爬取店铺丝悦坊结束，耗时：126
+Wed, 25 Oct 2017 15:44:50 crawl_taobao_shop.py[line:175] INFO 开始爬取六只兔子 高端内裤 内衣店
+Wed, 25 Oct 2017 15:48:32 crawl_taobao_shop.py[line:182] INFO 爬取店铺六只兔子 高端内裤 内衣店结束，耗时：221
+Wed, 25 Oct 2017 15:48:32 crawl_taobao_shop.py[line:175] INFO 开始爬取楼格格内衣馆
+Wed, 25 Oct 2017 15:50:58 crawl_taobao_shop.py[line:182] INFO 爬取店铺楼格格内衣馆结束，耗时：145
+Wed, 25 Oct 2017 15:53:13 crawl_taobao_shop.py[line:175] INFO 开始爬取楼格格内衣馆
+Wed, 25 Oct 2017 15:53:33 crawl_taobao_shop.py[line:175] INFO 开始爬取楼格格内衣馆
+Wed, 25 Oct 2017 15:57:11 crawl_taobao_shop.py[line:182] INFO 爬取店铺楼格格内衣馆结束，耗时：217
+Thu, 26 Oct 2017 08:26:43 crawl_taobao_shop.py[line:174] INFO 开始爬取莎琪儿私藏内衣店
+Thu, 26 Oct 2017 08:26:44 crawl_taobao_shop.py[line:152] INFO 店铺宝贝总数： 417 
+Thu, 26 Oct 2017 08:29:58 crawl_taobao_shop.py[line:174] INFO 开始爬取莎琪儿私藏内衣店
+Thu, 26 Oct 2017 08:29:59 crawl_taobao_shop.py[line:152] INFO 店铺宝贝总数： 417 
+Thu, 26 Oct 2017 08:30:02 crawl_taobao_shop.py[line:89] ERROR 爬取莎琪儿私藏内衣店是出错：Error 10061 connecting to 127.0.0.1:6379. .
+Thu, 26 Oct 2017 08:51:23 crawl_taobao_shop.py[line:174] INFO 开始爬取莎琪儿私藏内衣店
+Thu, 26 Oct 2017 08:51:23 crawl_taobao_shop.py[line:152] INFO 店铺宝贝总数： 417 
+Thu, 26 Oct 2017 08:53:25 crawl_taobao_shop.py[line:174] INFO 开始爬取莎琪儿私藏内衣店
+Thu, 26 Oct 2017 08:53:26 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop67361531.taobao.com/,宝贝总数： 417 
+Thu, 26 Oct 2017 08:56:58 crawl_taobao_shop.py[line:181] INFO 爬取店铺莎琪儿私藏内衣店结束，耗时：212
+Thu, 26 Oct 2017 08:56:58 crawl_taobao_shop.py[line:174] INFO 开始爬取嘉爱丝
+Thu, 26 Oct 2017 08:56:59 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop108446669.taobao.com/,宝贝总数： 161 
+Thu, 26 Oct 2017 08:59:04 crawl_taobao_shop.py[line:181] INFO 爬取店铺嘉爱丝结束，耗时：125
+Thu, 26 Oct 2017 08:59:04 crawl_taobao_shop.py[line:174] INFO 开始爬取佰丝韵真丝 
+Thu, 26 Oct 2017 08:59:05 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop107044311.taobao.com/,宝贝总数： 235 
+Thu, 26 Oct 2017 09:01:09 crawl_taobao_shop.py[line:181] INFO 爬取店铺佰丝韵真丝 结束，耗时：125
+Thu, 26 Oct 2017 09:01:09 crawl_taobao_shop.py[line:174] INFO 开始爬取丝悦坊
+Thu, 26 Oct 2017 09:01:10 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop120839150.taobao.com/,宝贝总数： 95 
+Thu, 26 Oct 2017 09:03:14 crawl_taobao_shop.py[line:181] INFO 爬取店铺丝悦坊结束，耗时：125
+Thu, 26 Oct 2017 09:03:14 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:03:15 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop36826868.taobao.com/,宝贝总数： 421 
+Thu, 26 Oct 2017 09:05:19 crawl_taobao_shop.py[line:181] INFO 爬取店铺六只兔子 高端内裤 内衣店结束，耗时：125
+Thu, 26 Oct 2017 09:05:19 crawl_taobao_shop.py[line:174] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 09:05:22 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop69082681.taobao.com/,宝贝总数： 448 
+Thu, 26 Oct 2017 09:07:28 crawl_taobao_shop.py[line:181] INFO 爬取店铺楼格格内衣馆结束，耗时：128
+Thu, 26 Oct 2017 09:11:11 crawl_taobao_shop.py[line:174] INFO 开始爬取嘉爱丝
+Thu, 26 Oct 2017 09:11:13 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop108446669.taobao.com/,宝贝总数： 161 
+Thu, 26 Oct 2017 09:15:00 crawl_taobao_shop.py[line:181] INFO 爬取店铺嘉爱丝结束，耗时：228
+Thu, 26 Oct 2017 09:15:00 crawl_taobao_shop.py[line:174] INFO 开始爬取佰丝韵真丝 
+Thu, 26 Oct 2017 09:15:03 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop107044311.taobao.com/,宝贝总数： 235 
+Thu, 26 Oct 2017 09:25:45 crawl_taobao_shop.py[line:181] INFO 爬取店铺佰丝韵真丝 结束，耗时：645
+Thu, 26 Oct 2017 09:25:45 crawl_taobao_shop.py[line:174] INFO 开始爬取丝悦坊
+Thu, 26 Oct 2017 09:25:47 crawl_taobao_shop.py[line:152] INFO 获取店铺https://shop120839150.taobao.com/,宝贝总数： 95 
+Thu, 26 Oct 2017 09:30:53 crawl_taobao_shop.py[line:181] INFO 爬取店铺丝悦坊结束，耗时：307
+Thu, 26 Oct 2017 09:30:53 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:32:10 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:32:43 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:36:12 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:36:44 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:37:02 crawl_taobao_shop.py[line:174] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 09:38:09 crawl_taobao_shop.py[line:174] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 09:41:41 crawl_taobao_shop.py[line:171] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 09:47:04 crawl_taobao_shop.py[line:171] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 09:53:33 crawl_taobao_shop.py[line:171] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 09:56:28 crawl_taobao_shop.py[line:171] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 10:00:28 crawl_taobao_shop.py[line:173] INFO 开始爬取楼格格内衣馆
+Thu, 26 Oct 2017 10:00:56 crawl_taobao_shop.py[line:151] INFO 获取店铺https://shop69082681.taobao.com/,宝贝总数： 448 
+Thu, 26 Oct 2017 10:12:40 crawl_taobao_shop.py[line:180] INFO 爬取店铺楼格格内衣馆结束，耗时：730
+Thu, 26 Oct 2017 10:12:53 crawl_taobao_shop.py[line:173] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 10:13:10 crawl_taobao_shop.py[line:151] INFO 获取店铺https://shop36826868.taobao.com/,宝贝总数： 421 
+Thu, 26 Oct 2017 10:13:53 crawl_taobao_shop.py[line:173] INFO 开始爬取六只兔子 高端内裤 内衣店
+Thu, 26 Oct 2017 10:13:54 crawl_taobao_shop.py[line:151] INFO 获取店铺https://shop36826868.taobao.com/,宝贝总数： 421 
+Thu, 26 Oct 2017 10:17:05 crawl_taobao_shop.py[line:180] INFO 爬取店铺六只兔子 高端内裤 内衣店结束，耗时：192
